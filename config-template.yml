@@ -1,0 +1,18 @@
+# This file should be placed under ~/.pylc/config.yml
+# NO checks on the values are performed
+
+log_files_catalog: 
+
+state_files_catalog: 
+
+python3_binary_patch: 
+
+pylc_catalog: 
+
+username: 
+
+in_container_username: 
+
+containers_catalog: 
+
+hostname: 
